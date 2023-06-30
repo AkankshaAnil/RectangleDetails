@@ -1,0 +1,15 @@
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net6.0\RectangleApplication.exe
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net6.0\RectangleApplication.deps.json
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net6.0\RectangleApplication.runtimeconfig.json
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net6.0\RectangleApplication.dll
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net6.0\RectangleApplication.pdb
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.csproj.AssemblyReference.cache
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.AssemblyInfoInputs.cache
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.AssemblyInfo.cs
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.dll
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\refint\RectangleApplication.dll
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.pdb
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\RectangleApplication.genruntimeconfig.cache
+C:\Users\AKANKSHA\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net6.0\ref\RectangleApplication.dll
