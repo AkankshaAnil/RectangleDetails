@@ -25,14 +25,5 @@ namespace RectangleApplication
             Console.WriteLine("Area: {0}", GetArea());
         }
     }
-    class ExecuteRectangle
-    {
-        static void Main(string[] args)
-        {
-            Rectangle r = new Rectangle();
-            r.Acceptdetails();
-            r.Display();
-            Console.ReadLine();
-        }
-    }
+    
 }
